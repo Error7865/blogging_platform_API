@@ -1,0 +1,11 @@
+#virtual environmetn
+vir_env/
+
+#pycache
+__pycache__/
+
+# .rdb files
+*.rdb
+
+# .env file
+.env
