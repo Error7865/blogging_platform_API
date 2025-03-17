@@ -106,5 +106,5 @@ It will return list of articles.
 You must be owner of thoes articles to get all of thoes information.
 
 
-This inspired by [roadmap.sh](https://roadmap.sh/projects/task-tracker)
+This inspired by ([roadmap.sh](https://roadmap.sh/projects/blogging-platform-api))
 
